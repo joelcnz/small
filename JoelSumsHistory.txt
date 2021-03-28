@@ -1,0 +1,412 @@
+Saturday 4 May 2019 [ 3:41:07pm] <-> Welcome to Sums
+Saturday 4 May 2019 [ 3:41:09pm] <-> Random
+2 + 6 = 8
+It Is! -- Right in: 1 sec, 498 ms, 314 μs, and 7 hnsecs
+7 + 8 = 15
+It Is! -- Right in: 2 secs, 42 ms, 71 μs, and 5 hnsecs
+4 + 7 = 11
+It Is! -- Right in: 1 sec, 952 ms, and 519 μs
+11 + 5 = 16
+It Is! -- Right in: 1 sec, 428 ms, 902 μs, and 5 hnsecs
+7 + 9 = 16
+It Is! -- Right in: 1 sec, 826 ms, 94 μs, and 9 hnsecs
+11 + 1 = 12
+It Is! -- Right in: 1 sec, 289 ms, 971 μs, and 7 hnsecs
+9 + 10 = 19
+It Is! -- Right in: 1 sec, 349 ms, 79 μs, and 8 hnsecs
+8 + 11 = 19
+It Is! -- Right in: 2 secs, 278 ms, 217 μs, and 1 hnsec
+4 + 3 = 7
+It Is! -- Right in: 1 sec, 550 ms, 250 μs, and 6 hnsecs
+3 + 2 = 5
+It Is! -- Right in: 1 sec, 101 ms, 705 μs, and 1 hnsec
+12 + 4 = 16
+It Is! -- Right in: 1 sec, 788 ms, 787 μs, and 7 hnsecs
+Saturday 4 May 2019 [ 3:41:27pm] in Time: 18 secs, 106 ms, 787 μs, and 2 hnsecs (0 mistakes)
+Thursday 16 May 2019 [11:10:30am] <-> Welcome to Sums
+Thursday 16 May 2019 [11:10:33am] <-> Random
+11 + 3 = 14
+It Is! -- Right in: 1 sec, 680 ms, and 277 μs
+4 + 2 = 6
+It Is! -- Right in: 1 sec, 267 ms, 520 μs, and 4 hnsecs
+4 + 6 = 10
+It Is! -- Right in: 1 sec, 637 ms, 758 μs, and 1 hnsec
+8 + 11 = 19
+It Is! -- Right in: 1 sec, 267 ms, 963 μs, and 4 hnsecs
+2 + 5 = 7
+It Is! -- Right in: 1 sec, 302 ms, 131 μs, and 5 hnsecs
+11 + 8 = 19
+It Is! -- Right in: 1 sec, 779 ms, 316 μs, and 3 hnsecs
+9 + 4 = 13
+It Is! -- Right in: 2 secs, 736 ms, 129 μs, and 6 hnsecs
+6 + 9 = 15
+It Is! -- Right in: 2 secs, 214 ms, 265 μs, and 8 hnsecs
+1 + 1 = 2
+It Is! -- Right in: 1 sec, 7 ms, and 102 μs
+6 + 7 = 13
+It Is! -- Right in: 3 secs, 379 ms, 579 μs, and 2 hnsecs
+7 + 10 = 17
+It Is! -- Right in: 1 sec, 419 ms, 249 μs, and 7 hnsecs
+Thursday 16 May 2019 [11:10:52am] in Time: 19 secs, 692 ms, 857 μs, and 6 hnsecs (0 mistakes)
+Friday 17 May 2019 [11:43:07am] <-> Welcome to Sums
+Friday 17 May 2019 [11:43:08am] <-> Random
+9 + 11 = 20
+It Is! -- Right in: 1 sec, 803 ms, and 89 μs
+3 + 5 = 8
+It Is! -- Right in: 1 sec, 445 ms, and 281 μs
+9 + 10 = 19
+It Is! -- Right in: 1 sec, 331 ms, 178 μs, and 5 hnsecs
+12 + 3 = 15
+It Is! -- Right in: 1 sec, 568 ms, 334 μs, and 3 hnsecs
+1 + 7 = 8
+It Is! -- Right in: 1 sec, 228 ms, 475 μs, and 7 hnsecs
+7 + 9 = 16
+It Is! -- Right in: 2 secs, 869 ms, 507 μs, and 8 hnsecs
+3 + 2 = 5
+It Is! -- Right in: 1 sec, 329 ms, 524 μs, and 9 hnsecs
+12 + 4 = 16
+It Is! -- Right in: 1 sec, 569 ms, 567 μs, and 3 hnsecs
+5 + 8 = 13
+It Is! -- Right in: 2 secs, 181 ms, 620 μs, and 9 hnsecs
+11 + 1 = 12
+It Is! -- Right in: 1 sec, 534 ms, 703 μs, and 5 hnsecs
+2 + 6 = 8
+It Is! -- Right in: 1 sec, 257 ms, 497 μs, and 8 hnsecs
+Friday 17 May 2019 [11:43:26am] in Time: 18 secs, 120 ms, 168 μs, and 1 hnsec (0 mistakes)
+Saturday 18 May 2019 [11:12:47am] <-> Welcome to Sums
+Saturday 18 May 2019 [11:12:51am] <-> 8 sums
+8 + 8 = 16
+It Is! -- Right in: 3 secs, 421 ms, 479 μs, and 5 hnsecs
+8 + 6 = 14
+It Is! -- Right in: 1 sec, 675 ms, 419 μs, and 8 hnsecs
+8 + 10 = 18
+It Is! -- Right in: 1 sec, 573 ms, 392 μs, and 1 hnsec
+8 + 2 = 10
+It Is! -- Right in: 1 sec, 816 ms, 99 μs, and 2 hnsecs
+8 + 4 = 12
+It Is! -- Right in: 1 sec, 553 ms, 388 μs, and 4 hnsecs
+8 + 9 = 17
+It Is! -- Right in: 3 secs, 670 ms, 931 μs, and 3 hnsecs
+8 + 7 is not 13! Try again..
+8 + 7 = 15
+It Is! -- Right in: 5 secs, 882 ms, 844 μs, and 4 hnsecs
+8 + 1 = 9
+It Is! -- Right in: 1 sec, 407 ms, 543 μs, and 5 hnsecs
+8 + 11 = 19
+It Is! -- Right in: 1 sec, 614 ms, 163 μs, and 2 hnsecs
+8 + 3 = 11
+It Is! -- Right in: 1 sec, 933 ms, 230 μs, and 5 hnsecs
+8 + 5 = 13
+It Is! -- Right in: 2 secs, 777 ms, 925 μs, and 3 hnsecs
+Saturday 18 May 2019 [11:13:18am] in Time: 27 secs, 327 ms, 883 μs, and 2 hnsecs (1 mistake)
+Saturday 18 May 2019 [11:13:25am] <-> Welcome to Sums
+Saturday 18 May 2019 [11:13:26am] <-> 8 sums
+8 + 3 = 11
+It Is! -- Right in: 2 secs, 160 ms, 447 μs, and 7 hnsecs
+8 + 6 = 14
+It Is! -- Right in: 2 secs, 709 ms, 771 μs, and 3 hnsecs
+8 + 2 = 10
+It Is! -- Right in: 1 sec, 810 ms, 787 μs, and 7 hnsecs
+8 + 8 = 16
+It Is! -- Right in: 1 sec, 326 ms, 662 μs, and 6 hnsecs
+8 + 10 = 18
+It Is! -- Right in: 1 sec, 283 ms, 265 μs, and 6 hnsecs
+8 + 4 = 12
+It Is! -- Right in: 1 sec, 244 ms, 863 μs, and 6 hnsecs
+8 + 11 = 19
+It Is! -- Right in: 1 sec, 795 ms, 487 μs, and 2 hnsecs
+8 + 7 = 15
+It Is! -- Right in: 2 secs, 883 ms, 694 μs, and 8 hnsecs
+8 + 5 is not 12! Try again..
+8 + 5 = 13
+It Is! -- Right in: 2 secs, 997 ms, 241 μs, and 3 hnsecs
+8 + 1 = 9
+It Is! -- Right in: 1 sec, 427 ms, 925 μs, and 8 hnsecs
+8 + 9 is not 18! Try again..
+8 + 9 = 17
+It Is! -- Right in: 14 secs, 573 ms, 792 μs, and 3 hnsecs
+Saturday 18 May 2019 [11:14:00am] in Time: 34 secs, 214 ms, 570 μs, and 4 hnsecs (2 mistakes)
+Saturday 18 May 2019 [11:18:12am] <-> Welcome to Sums
+Saturday 18 May 2019 [11:18:16am] <-> 8 sums
+8 + 6 = 14
+It Is! -- Right in: 3 secs, 687 ms, 383 μs, and 8 hnsecs
+8 + 5 = 13
+It Is! -- Right in: 2 secs, 124 ms, 693 μs, and 4 hnsecs
+8 + 11 = 19
+It Is! -- Right in: 1 sec, 685 ms, 296 μs, and 8 hnsecs
+8 + 4 = 12
+It Is! -- Right in: 2 secs, 636 ms, 374 μs, and 8 hnsecs
+8 + 8 = 16
+It Is! -- Right in: 1 sec, 772 ms, 618 μs, and 6 hnsecs
+8 + 3 = 11
+It Is! -- Right in: 3 secs, 229 ms, 969 μs, and 4 hnsecs
+8 + 2 = 10
+It Is! -- Right in: 1 sec, 744 ms, and 943 μs
+8 + 9 = 17
+It Is! -- Right in: 3 secs, 373 ms, 948 μs, and 3 hnsecs
+8 + 10 = 18
+It Is! -- Right in: 1 sec, 809 ms, 823 μs, and 6 hnsecs
+8 + 7 = 15
+It Is! -- Right in: 2 secs, 782 ms, 963 μs, and 2 hnsecs
+8 + 1 = 9
+It Is! -- Right in: 1 sec, 421 ms, 684 μs, and 8 hnsecs
+Saturday 18 May 2019 [11:18:42am] in Time: 26 secs, 271 ms, 85 μs, and 4 hnsecs (0 mistakes)
+Saturday 18 May 2019 [11:18:47am] <-> Welcome to Sums
+Saturday 18 May 2019 [11:18:51am] <-> 8 sums
+8 + 11 = 19
+It Is! -- Right in: 2 secs, 678 ms, and 465 μs
+8 + 3 is not 12! Try again..
+8 + 3 is not 1! Try again..
+8 + 3 = 11
+It Is! -- Right in: 2 secs, 572 ms, 453 μs, and 6 hnsecs
+8 + 9 = 17
+It Is! -- Right in: 5 secs, 59 ms, 175 μs, and 6 hnsecs
+8 + 5 = 13
+It Is! -- Right in: 2 secs, 246 ms, 503 μs, and 9 hnsecs
+8 + 10 = 18
+It Is! -- Right in: 1 sec, 474 ms, 738 μs, and 9 hnsecs
+8 + 7 = 15
+It Is! -- Right in: 6 secs, 591 ms, 531 μs, and 8 hnsecs
+8 + 4 = 12
+It Is! -- Right in: 1 sec, 419 ms, 243 μs, and 1 hnsec
+8 + 2 = 10
+It Is! -- Right in: 1 sec, 257 ms, and 327 μs
+8 + 1 = 9
+It Is! -- Right in: 1 sec, 319 ms, 431 μs, and 8 hnsecs
+8 + 6 = 14
+It Is! -- Right in: 2 secs, 300 ms, and 455 μs
+8 + 8 = 16
+It Is! -- Right in: 1 sec, 793 ms, and 442 μs
+Saturday 18 May 2019 [11:19:20am] in Time: 28 secs, 713 ms, 554 μs, and 4 hnsecs (2 mistakes)
+Sunday 23 June 2019 [10:49:46am] <-> Welcome to Sums
+Sunday 23 June 2019 [10:49:50am] <-> 7 sums
+7 + 9 is not 18! Try again..
+7 + 9 is not 165! Try again..
+7 + 9 = 16
+It Is! -- Right in: 11 secs, 452 ms, 573 μs, and 8 hnsecs
+7 + 2 = 9
+It Is! -- Right in: 4 secs, 219 ms, 14 μs, and 1 hnsec
+7 + 11 = 18
+It Is! -- Right in: 2 secs, 577 ms, 384 μs, and 4 hnsecs
+7 + 10 = 17
+It Is! -- Right in: 1 sec, 551 ms, 472 μs, and 1 hnsec
+7 + 6 = 13
+It Is! -- Right in: 2 secs, 545 ms, 560 μs, and 2 hnsecs
+7 + 8 = 15
+It Is! -- Right in: 3 secs, 418 ms, 207 μs, and 2 hnsecs
+7 + 5 = 12
+It Is! -- Right in: 1 sec, 970 ms, 650 μs, and 9 hnsecs
+7 + 1 = 8
+It Is! -- Right in: 1 sec, 271 ms, 340 μs, and 8 hnsecs
+7 + 4 = 11
+It Is! -- Right in: 1 sec, 625 ms, 358 μs, and 2 hnsecs
+7 + 7 = 14
+It Is! -- Right in: 1 sec, 202 ms, 119 μs, and 3 hnsecs
+7 + 3 = 10
+It Is! -- Right in: 1 sec, 451 ms, 779 μs, and 9 hnsecs
+Sunday 23 June 2019 [10:50:24am] in Time: 33 secs, 286 ms, 125 μs, and 7 hnsecs (2 mistakes)
+Sunday 23 June 2019 [10:50:26am] <-> Welcome to Sums
+Sunday 23 June 2019 [10:50:28am] <-> 7 sums
+7 + 2 = 9
+It Is! -- Right in: 1 sec, 343 ms, 565 μs, and 4 hnsecs
+7 + 7 = 14
+It Is! -- Right in: 1 sec, 73 ms, 613 μs, and 8 hnsecs
+7 + 5 = 12
+It Is! -- Right in: 2 secs, 352 ms, 897 μs, and 5 hnsecs
+7 + 3 = 10
+It Is! -- Right in: 1 sec, 504 ms, 158 μs, and 9 hnsecs
+7 + 8 = 15
+It Is! -- Right in: 4 secs, 50 ms, and 71 μs
+7 + 4 = 11
+It Is! -- Right in: 2 secs, 532 ms, 676 μs, and 8 hnsecs
+7 + 10 = 17
+It Is! -- Right in: 1 sec, 419 ms, 574 μs, and 2 hnsecs
+7 + 11 = 18
+It Is! -- Right in: 2 secs, 252 ms, 333 μs, and 1 hnsec
+7 + 6 = 13
+It Is! -- Right in: 4 secs, 752 ms, 332 μs, and 6 hnsecs
+7 + 1 = 8
+It Is! -- Right in: 1 sec, 446 ms, 561 μs, and 7 hnsecs
+7 + 9 is not 18! Try again..
+7 + 9 = 16
+It Is! -- Right in: 8 secs, 773 ms, 900 μs, and 7 hnsecs
+Sunday 23 June 2019 [10:51:00am] in Time: 31 secs, 502 ms, 307 μs, and 6 hnsecs (1 mistake)
+Sunday 30 June 2019 [10:26:30am] <-> Welcome to Sums
+Sunday 30 June 2019 [10:26:36am] <-> 7 sums
+7 + 8 = 15
+It Is! -- Right in: 5 secs, 281 ms, 68 μs, and 5 hnsecs
+7 + 5 = 12
+It Is! -- Right in: 2 secs, 594 ms, 830 μs, and 3 hnsecs
+7 + 9 = 16
+It Is! -- Right in: 3 secs, 449 ms, 222 μs, and 8 hnsecs
+7 + 10 = 17
+It Is! -- Right in: 1 sec, 928 ms, 738 μs, and 6 hnsecs
+7 + 2 = 9
+It Is! -- Right in: 1 sec, 612 ms, 278 μs, and 5 hnsecs
+7 + 7 = 14
+It Is! -- Right in: 1 sec, 147 ms, 442 μs, and 5 hnsecs
+7 + 1 = 8
+It Is! -- Right in: 1 sec, 216 ms, 812 μs, and 4 hnsecs
+7 + 6 = 13
+It Is! -- Right in: 2 secs, 389 ms, 37 μs, and 5 hnsecs
+7 + 3 = 10
+It Is! -- Right in: 1 sec, 474 ms, 3 μs, and 5 hnsecs
+7 + 4 = 11
+It Is! -- Right in: 1 sec, 442 ms, 430 μs, and 3 hnsecs
+7 + 11 = 18
+It Is! -- Right in: 2 secs, 41 ms, and 934 μs
+Sunday 30 June 2019 [10:27:00am] in Time: 24 secs, 579 ms, 330 μs, and 5 hnsecs (0 mistakes)
+Sunday 30 June 2019 [10:27:03am] <-> Welcome to Sums
+Sunday 30 June 2019 [10:27:06am] <-> 7 sums
+7 + 5 = 12
+It Is! -- Right in: 1 sec, 531 ms, 806 μs, and 5 hnsecs
+7 + 3 = 10
+It Is! -- Right in: 1 sec, 792 ms, 598 μs, and 7 hnsecs
+7 + 6 = 13
+It Is! -- Right in: 2 secs, 245 ms, 312 μs, and 4 hnsecs
+7 + 1 = 8
+It Is! -- Right in: 1 sec, 208 ms, 908 μs, and 2 hnsecs
+7 + 11 = 18
+It Is! -- Right in: 1 sec, 760 ms, 530 μs, and 6 hnsecs
+7 + 2 = 9
+It Is! -- Right in: 1 sec, 206 ms, 8 μs, and 9 hnsecs
+7 + 7 = 14
+It Is! -- Right in: 1 sec, 419 ms, 113 μs, and 6 hnsecs
+7 + 4 = 11
+It Is! -- Right in: 1 sec, 281 ms, 677 μs, and 1 hnsec
+7 + 8 = 15
+It Is! -- Right in: 4 secs, 424 ms, 54 μs, and 4 hnsecs
+7 + 9 = 16
+It Is! -- Right in: 2 secs, 807 ms, 191 μs, and 4 hnsecs
+7 + 10 = 17
+It Is! -- Right in: 1 sec, 613 ms, 804 μs, and 9 hnsecs
+Sunday 30 June 2019 [10:27:27am] in Time: 21 secs, 291 ms, 660 μs, and 5 hnsecs (0 mistakes)
+Saturday 6 July 2019 [ 7:47:27pm] <-> Welcome to Sums
+Saturday 6 July 2019 [ 7:47:34pm] <-> 8 sums
+8 + 8 = 16
+It Is! -- Right in: 1 sec, 479 ms, 570 μs, and 4 hnsecs
+8 + 2 = 10
+It Is! -- Right in: 1 sec, 504 ms, and 905 μs
+8 + 10 = 18
+It Is! -- Right in: 1 sec, 180 ms, 906 μs, and 4 hnsecs
+8 + 3 = 11
+It Is! -- Right in: 2 secs, 150 ms, 238 μs, and 2 hnsecs
+8 + 9 = 17
+It Is! -- Right in: 2 secs, 297 ms, 920 μs, and 6 hnsecs
+8 + 6 is not 15! Try again..
+8 + 6 = 14
+It Is! -- Right in: 7 secs, 695 ms, 983 μs, and 2 hnsecs
+8 + 1 = 9
+It Is! -- Right in: 1 sec, 620 ms, 899 μs, and 5 hnsecs
+8 + 11 = 19
+It Is! -- Right in: 1 sec, 922 ms, 540 μs, and 8 hnsecs
+8 + 5 = 13
+It Is! -- Right in: 2 secs, 170 ms, 682 μs, and 4 hnsecs
+8 + 7 = 15
+It Is! -- Right in: 2 secs, 195 ms, 324 μs, and 1 hnsec
+8 + 4 = 12
+It Is! -- Right in: 1 sec, 556 ms, 856 μs, and 4 hnsecs
+Saturday 6 July 2019 [ 7:47:59pm] in Time: 25 secs, 777 ms, 343 μs, and 6 hnsecs (1 mistake)
+Saturday 6 July 2019 [ 7:48:03pm] <-> Welcome to Sums
+Saturday 6 July 2019 [ 7:48:04pm] <-> 8 sums
+8 + 2 = 10
+It Is! -- Right in: 1 sec, 310 ms, 847 μs, and 7 hnsecs
+8 + 7 = 15
+It Is! -- Right in: 1 sec, 729 ms, and 45 μs
+8 + 1 = 9
+It Is! -- Right in: 1 sec, 263 ms, 417 μs, and 5 hnsecs
+8 + 10 = 18
+It Is! -- Right in: 1 sec, 113 ms, 195 μs, and 2 hnsecs
+8 + 4 = 12
+It Is! -- Right in: 1 sec, 281 ms, 42 μs, and 1 hnsec
+8 + 8 = 16
+It Is! -- Right in: 1 sec, 412 ms, 289 μs, and 5 hnsecs
+8 + 11 = 19
+It Is! -- Right in: 1 sec, 469 ms, and 46 μs
+8 + 6 is not 13! Try again..
+8 + 6 = 14
+It Is! -- Right in: 3 secs, 350 ms, 374 μs, and 5 hnsecs
+8 + 3 = 11
+It Is! -- Right in: 2 secs, 397 ms, 789 μs, and 6 hnsecs
+8 + 9 = 17
+It Is! -- Right in: 5 secs, 258 ms, 863 μs, and 8 hnsecs
+8 + 5 = 13
+It Is! -- Right in: 1 sec, 926 ms, 476 μs, and 3 hnsecs
+Saturday 6 July 2019 [ 7:48:27pm] in Time: 22 secs, 512 ms, and 970 μs (1 mistake)
+Saturday 6 July 2019 [ 7:48:30pm] <-> Welcome to Sums
+Saturday 6 July 2019 [ 7:48:31pm] <-> 8 sums
+8 + 6 is not 13! Try again..
+8 + 6 is not 12! Try again..
+8 + 6 = 14
+It Is! -- Right in: 5 secs, 636 ms, 14 μs, and 8 hnsecs
+8 + 4 = 12
+It Is! -- Right in: 2 secs, 47 ms, 990 μs, and 2 hnsecs
+8 + 9 = 17
+It Is! -- Right in: 3 secs, 973 ms, 772 μs, and 9 hnsecs
+8 + 8 = 16
+It Is! -- Right in: 1 sec, 746 ms, 358 μs, and 9 hnsecs
+8 + 5 = 13
+It Is! -- Right in: 2 secs, 107 ms, 906 μs, and 9 hnsecs
+8 + 2 = 10
+It Is! -- Right in: 1 sec, 302 ms, 719 μs, and 8 hnsecs
+8 + 11 = 19
+It Is! -- Right in: 1 sec, 523 ms, 548 μs, and 4 hnsecs
+8 + 10 = 18
+It Is! -- Right in: 1 sec, 742 ms, and 348 μs
+8 + 7 = 15
+It Is! -- Right in: 3 secs, 196 ms, 447 μs, and 9 hnsecs
+8 + 1 = 9
+It Is! -- Right in: 1 sec, 222 ms, 650 μs, and 4 hnsecs
+8 + 3 = 11
+It Is! -- Right in: 1 sec, 764 ms, 474 μs, and 8 hnsecs
+Saturday 6 July 2019 [ 7:48:57pm] in Time: 26 secs, 264 ms, 820 μs, and 2 hnsecs (2 mistakes)
+Wednesday 17 July 2019 [ 7:49:23pm] <-> Welcome to Sums
+Wednesday 17 July 2019 [ 7:49:31pm] <-> Random
+8 + 1 = 9
+It Is! -- Right in: 1 sec, 396 ms, 810 μs, and 3 hnsecs
+6 + 4 = 10
+It Is! -- Right in: 1 sec, 639 ms, 612 μs, and 3 hnsecs
+9 + 2 = 11
+It Is! -- Right in: 1 sec, 522 ms, 417 μs, and 3 hnsecs
+2 + 6 = 8
+It Is! -- Right in: 2 secs, 255 ms, 229 μs, and 2 hnsecs
+11 + 10 = 21
+It Is! -- Right in: 1 sec, 848 ms, 108 μs, and 7 hnsecs
+11 + 8 = 19
+It Is! -- Right in: 1 sec, 918 ms, 16 μs, and 4 hnsecs
+1 + 3 = 4
+It Is! -- Right in: 1 sec, 163 ms, 302 μs, and 8 hnsecs
+8 + 7 = 15
+It Is! -- Right in: 1 sec, 885 ms, 332 μs, and 2 hnsecs
+7 + 5 = 12
+It Is! -- Right in: 3 secs, 138 ms, 188 μs, and 3 hnsecs
+12 + 9 = 21
+It Is! -- Right in: 2 secs, 657 ms, and 676 μs
+5 + 11 = 16
+It Is! -- Right in: 2 secs, 31 ms, 91 μs, and 6 hnsecs
+Wednesday 17 July 2019 [ 7:49:53pm] in Time: 21 secs, 457 ms, 506 μs, and 3 hnsecs (0 mistakes)
+Wednesday 17 July 2019 [ 7:51:21pm] <-> Welcome to Sums
+Wednesday 17 July 2019 [ 7:51:23pm] <-> Random
+1 + 8 = 9
+It Is! -- Right in: 1 sec, 273 ms, 917 μs, and 7 hnsecs
+8 + 2 = 10
+It Is! -- Right in: 1 sec, 412 ms, 716 μs, and 5 hnsecs
+12 + 3 = 15
+It Is! -- Right in: 1 sec, 373 ms, 216 μs, and 4 hnsecs
+7 + 4 = 11
+It Is! -- Right in: 2 secs, 674 ms, and 23 μs
+6 + 1 = 7
+It Is! -- Right in: 1 sec, 759 ms, 438 μs, and 5 hnsecs
+1 + 9 = 10
+It Is! -- Right in: 1 sec, 915 ms, 913 μs, and 8 hnsecs
+5 + 6 = 11
+It Is! -- Right in: 1 sec, 625 ms, 64 μs, and 6 hnsecs
+10 + 10 = 20
+It Is! -- Right in: 1 sec, 244 ms, 441 μs, and 9 hnsecs
+8 + 5 = 13
+It Is! -- Right in: 2 secs, 950 ms, and 648 μs
+2 + 7 = 9
+It Is! -- Right in: 1 sec, 818 ms, 520 μs, and 4 hnsecs
+4 + 11 = 15
+It Is! -- Right in: 1 sec, 547 ms, 201 μs, and 8 hnsecs
+Wednesday 17 July 2019 [ 7:51:42pm] in Time: 19 secs, 595 ms, 744 μs, and 8 hnsecs (0 mistakes)

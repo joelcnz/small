@@ -1,0 +1,258 @@
+~/jpro/dpro2/small/_notes.txt
+
+List of headers:
+
+Other \/
+iCloud \/
+Source files to work on \/
+Working on \/
+Work out \/
+Compile run \/
+Back up \/
+
+
+Back up \/
+
+Make a program that copies Documents to iCloud Hold.txt. Idk.
+
+
+Other \/
+binarySearch5.d -> opCmp
+batchcompile.d -> "rdmd batchcompile barry ariki", then "rdmd batchcompile -run barry ariki"
+idiomatic.d -> compare with more C like
+
+jpreview.d - to go through each source file. "./cf jpreview" - to compile.
+
+usbdotclean.d - do dot_clean on the folders and sub folders ('./usbdotclean', or './usbdotclean -all') '-all' does the whole USB drive otherwise it just does jpro/dpro2
+numral.d - truthers code program - though, incomplete (eg. billgates 33)
+threewaypool.d - at Adam's
+
+>>
+Compile run \/
+
+module cfr;
+
+import std.stdio : writeln;
+import std.process : wait, spawnProcess;
+import std.string : join;
+
+void main() {
+    immutable commands = [["clear"],
+        ["dub", "build"],
+        ["./guesspop", "Testing"]];
+    foreach(i, command; commands) {
+        writeln("D> ", command.join(" "));
+        wait(spawnProcess(command));
+        if (i == 0)
+            writeln("D> ", command.join(" "), " (screen cleared)");
+    }
+}
+
+Or just put 'dub -- Testing' ???
+<<
+
+Work out \/
+forward.d - Forward functions
+
+linq.d - tuples (3 numbers)
+
+
+iCloud \/
+savetoicloud.d
+
+
+Working on \/
+clearnum.d (1,000 instead of just 1000, but it's not right for most negative numbers)
+Calendar.d
+smartcopy.d - for backing up 256 flash drive //Errors on .Spotlight in 256 flash drive
+*xmltest.d
+
+miniwebserver.d - 12.3.2019 access denied.
+backups.d - 4.10.2019
+
+import core.thread;
+Thread.sleep(15.dur!"msecs");
+invoke.d
+
+Latest:
+invoke.d - run another program displaying the output in it
+Namedpara.d
+
+Read more of wipereadchronspell.txt
+
+updateiusb.d - copy Hold.txt to iUSB and Jyble
+wordcount.d - rdmd wordcount -run one two three
+
+>>
+//https://dlang.org/changelog/2.082.0.html#std-algorithm-iteration-joiner
+import std.algorithm.comparison : equal;
+import std.range : chain, cycle, iota, only, retro, take, zip;
+import std.format : format;
+
+static immutable number = "12345678";
+static immutable delimiter = ",";
+auto formatted = number.retro
+    .zip(3.iota.cycle.take(number.length))
+    .map!(z => chain(z[0].only, z[1] == 2 ? delimiter : null))
+    .joiner
+    .retro; // "12,345,678"
+
+See: clearnum.d, also Juration, and jmisc
+<<
+
+See char2num2.d
+
+ddlinkjava.d - double link list
+
+cirsinglylinkedlist.d - uses 'static foreach' (started: 18 2 2018)
+
+import std.process;
+// Run DMD on the file "myprog.d", specifying a few compiler switches:
+auto dmdPid = spawnProcess(["dmd", "-O", "-release", "-inline", "myprog.d" ]);
+if (wait(dmdPid) != 0)
+    writeln("Compilation failed!");
+
+seb.d - editing a CVS file, had a web link
+
+Jraining \/
+
+sums.d - './cf sums' (compiles with JMisc)
+tables.d - times table program, also in Google+. Uses a delegate
+takeaways.d - maths program (bit crazy with negative numbers)
+
+02102409119
+
+jstopwatch.d - there's been a change
+
+jrange.d - (good one to work out 22 11 2017)
+
+textscroll.d - (eg. ./textscroll topsecret.txt)
+
+batchcompile.d - compile more than one file at a time; run one program after another.
+
+timedur.d -> mucking with dates
+
+import std.format, std.stdio; auto s = format!"%s is %s"("Pi", 3.14); - see formatI.d
+
+taketwo.d - for the scrabble pieces game.
+
+fleas.d - my dog has fleas, D version of Alan's program.
+
+Bop! \/
+tp.d:
+Undefined symbols for architecture x86_64:
+  "_getch", referenced from:
+      _D2tp5pagerFS3std5stdio4FileiaZv in tp.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+Error: linker exited with status 1
+
+autom.d \/ use on ideone.com `dmd autom` `./autom < autom.txt`
+
+std.functional -> pipe (look into it!)
+round.d - trying to work out how this program works! dmd -run round < round.txt
+
+//import std.stdio: File, byLine, writeln; //#byLine not found .. actually `File` covers it.
+
+reorder.d -> for SchedJoel. It edits the ini file. e.g. `./reorder alarms.ini alarm` for SchedJoel or `./reorder questions question` for Know It All.
+
+lineSearch.d -> prints all the lines (including paragraphs) that have the search predicate e.g. ./lineSearch money.ini cost (10 3 2017 - made at Putaruru Church Joyful Noise, while the singing)
+
+See structs.d for crazy error!
+
+libcalc.d -> would be great if could have thing working! e.g. writeln(calc(“1 + 2”));
+
+auto getSeconds(in long time) {
+	import std.conv : text;
+	return text(time / 1000, ".", time % 1000);
+}
+
+DCookbook source files are here and test ones (of my own) too eg. tree.d
+
+spellscan.d -> for words marked '(sp)'. Open Finder -> Documents -> Hold.txt. Copy Hold to here (/Users/joelchristensen/jpro/dpro2/small) - see spelling.txt
+
+term.d - alt terminal. Left and right cursor keys work.
+
+FreeBook bookmark: strings - Double quotes, not single quotes
+
+match.d - game, not working
+
+D phobos bug? No, use dchar.
+static if (is(T == char)) {
+	import std.stdio;
+	import std.algorithm: sort;
+	import std.conv: to;
+
+	string name = "bcda";
+	writeln(name.to!(dchar[]).sort!"a < b");
+}
+
+
+batchcompile.d: Going through source and executable files.
+
+Try './jpreview'
+
+Program information:
+
+increase.d - for having hours minutes seconds that the hour can go beyond 23.
+
+towide.d - is for coverting tabs to ".   " (not counting the quotes), maybe back again too.
+
+jecatext.d - start of text editing program
+
+swap.d - one swap doesn't even work.
+switch.d - has Hamish is awesome.
+char2num.d - has correlations with certain words and names to numbers, adding them up and showing the totals.
+char2num2.d - use ./cf to compile ('./cf char2num2')
+
+Source files to work on \/
+algorithmfromwindy.d
+
+tostring.d
+
+lambda.d
+
+dalleg5.d - use: 'dmd dalleg5 -debug=TDD' to see more stuff.
+
+testsuite folder is off: http://erdani.com/index.php?cID=109 - I don't think much of it though.
+
+cafe.d - was programmed in a cafe in Hamilton, New Zealand.
+
+11.11.2010
+Spent for ever to find out that with the ini.d file I had to have the '=' right beside the name and value.
+
+9.09.2010
+dotfoo.d - not work (a.foo(b);) - not exist now
+
+22.08.2010
+Put in dmdscript including in folder small: dstest.d scripttest.d (or some thing). Haven't gotten any where with them. I think they're ported to D2.0
+
+26.06.'10
+enforce is not found with 401 end - 402 example - think mistake 'std.exception' not 'std.contracts'
+Added std.contracts for enforce and go this:
+	C:\Jpro\dpro2\small>dmd exchmessbetThreads.d
+	exchmessbetThreads.d(17): Error: no [] operator overload for type Tuple!(Tid,int
+	)
+	exchmessbetThreads.d(18): Error: no [] operator overload for type Tuple!(Tid,int
+	)
+filecopyingwithatwist.d - doesn't work (and I copied it from the book 406 - 407)!?
+	:\>dmd filecopyingwithatwist.d
+	C:\jpro\dmd2\windows\bin\..\..\src\phobos\std\stdio.d(1902): Error: cannot impli
+	citly convert expression (buffer) of type ubyte[] to immutable(ubyte)[]
+	C:\jpro\dmd2\windows\bin\..\..\src\phobos\std\stdio.d(8): Error: template instan
+	ce std.stdio.chunks.opApply!(int delegate(ref immutable(ubyte)[] __applyArg0)) e
+	rror instantiating
+<
+
+std.string.find is deprecated - What is going on!? Make you own one instead? It's different than the book. What is used instead? [./] - indexOf instead. I think find would be found in another module. .. didn't have the find trouble last time I used it alright.
+
+Got this fluke in the mput.d program (maths):
+Enter 'quit' to exit
+65+80=145
+You're right!
+52+93=145
+You're right!
+
+Notable:
+insertion_sort.d
+line_closure.d

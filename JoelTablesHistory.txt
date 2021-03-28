@@ -1,0 +1,440 @@
+Thursday 18 April 2019 [ 7:12:22pm] <-> Welcome to Tables
+3 x 12 = 36
+It Is! - In 3 secs, 756 ms, 774 μs, and 7 hnsecs time.
+12 x 7 = 84
+It Is! - In 6 secs, 22 ms, 988 μs, and 5 hnsecs time.
+12 x 12 = 144
+It Is! - In 2 secs, 579 ms, and 78 μs time.
+9 x 12 = 108
+It Is! - In 3 secs, 64 ms, 202 μs, and 4 hnsecs time.
+12 x 11 = 132
+It Is! - In 2 secs, 439 ms, 835 μs, and 5 hnsecs time.
+1 x 12 = 12
+It Is! - In 1 sec, 336 ms, and 105 μs time.
+12 x 6 = 762
+That is incorrect, have another go..
+12 x 6 = 72
+It Is! - In 5 secs, 691 ms, 13 μs, and 7 hnsecs time.
+12 x 10 = 120
+It Is! - In 1 sec, 826 ms, 927 μs, and 2 hnsecs time.
+12 x 2 = 24
+It Is! - In 1 sec, 361 ms, 659 μs, and 7 hnsecs time.
+5 x 12 = 60
+It Is! - In 2 secs, 157 ms, 972 μs, and 1 hnsec time.
+12 x 4 = 48
+It Is! - In 2 secs, 204 ms, 632 μs, and 9 hnsecs time.
+12 x 8 = 94
+That is incorrect, have another go..
+12 x 8 = 96
+It Is! - In 4 secs, 639 ms, 705 μs, and 8 hnsecs time.
+Thursday 18 April 2019 [ 7:13:09pm] Hurray!
+10/12 Corrects (1st trys)!
+Thursday 18 April 2019 [ 7:13:09pm] Eclipsed Time: 37 secs, 82 ms, 83 μs, and 4 hnsecs
+Friday 17 May 2019 [11:43:33am] <-> Welcome to Tables
+8 x 2 = 16
+It Is! - In 1 sec, 319 ms, 343 μs, and 7 hnsecs time.
+10 x 8 = 80
+It Is! - In 1 sec, 641 ms, and 381 μs time.
+11 x 8 = 88
+It Is! - In 1 sec, 494 ms, 390 μs, and 3 hnsecs time.
+12 x 8 = 94
+That is incorrect, have another go..
+12 x 8 = 96
+It Is! - In 11 secs, 481 ms, 534 μs, and 1 hnsec time.
+5 x 8 = 409
+That is incorrect, have another go..
+5 x 8 = 40
+It Is! - In 2 secs, 646 ms, 673 μs, and 7 hnsecs time.
+8 x 6 = 36
+That is incorrect, have another go..
+8 x 6 = 48
+It Is! - In 9 secs, 990 ms, 416 μs, and 4 hnsecs time.
+8 x 8 = 64
+It Is! - In 2 secs, 488 ms, and 54 μs time.
+3 x 8 = 12
+That is incorrect, have another go..
+3 x 8 = 24
+It Is! - In 3 secs, 286 ms, 8 μs, and 8 hnsecs time.
+9 x 8 = 72
+It Is! - In 4 secs, 4 ms, and 395 μs time.
+8 x 4 = 24
+That is incorrect, have another go..
+8 x 4 = 32
+It Is! - In 5 secs, 860 ms, 660 μs, and 1 hnsec time.
+7 x 8 = 456
+That is incorrect, have another go..
+7 x 8 = 56
+It Is! - In 2 secs, 641 ms, 788 μs, and 5 hnsecs time.
+1 x 8 = 8
+It Is! - In 1 sec, 439 ms, 264 μs, and 9 hnsecs time.
+Friday 17 May 2019 [11:44:26am] Hurray!
+6/12 Corrects (1st trys)!
+Friday 17 May 2019 [11:44:26am] Eclipsed Time: 48 secs, 295 ms, 397 μs, and 3 hnsecs
+Friday 17 May 2019 [11:44:28am] <-> Welcome to Tables
+8 x 9 = 72
+It Is! - In 2 secs, 790 ms, 847 μs, and 3 hnsecs time.
+8 x 4 = 32
+It Is! - In 2 secs, 352 ms, 472 μs, and 9 hnsecs time.
+1 x 8 = 8
+It Is! - In 1 sec, 183 ms, 105 μs, and 6 hnsecs time.
+3 x 8 = 24
+It Is! - In 1 sec, 177 ms, 688 μs, and 8 hnsecs time.
+6 x 8 = 48
+It Is! - In 1 sec, 881 ms, and 346 μs time.
+7 x 8 = 56
+It Is! - In 1 sec, 720 ms, 659 μs, and 1 hnsec time.
+8 x 8 = 64
+It Is! - In 1 sec, 828 ms, 417 μs, and 8 hnsecs time.
+8 x 12 = 96
+It Is! - In 3 secs, 190 ms, 207 μs, and 7 hnsecs time.
+2 x 8 = 16
+It Is! - In 1 sec, 635 ms, 741 μs, and 4 hnsecs time.
+10 x 8 = 80
+It Is! - In 2 secs, 205 ms, and 904 μs time.
+8 x 5 = 40
+It Is! - In 1 sec, 556 ms, 470 μs, and 7 hnsecs time.
+11 x 8 = 88
+It Is! - In 3 secs, 70 ms, 203 μs, and 8 hnsecs time.
+Friday 17 May 2019 [11:44:57am] Hurray!
+12/12 Corrects (1st trys)!
+Friday 17 May 2019 [11:44:57am] Eclipsed Time: 24 secs, 594 ms, 669 μs, and 6 hnsecs
+Saturday 18 May 2019 [11:14:48am] <-> Welcome to Tables
+8 x 1 = 8
+It Is! - In 1 sec, 175 ms, 346 μs, and 9 hnsecs time.
+8 x 11 = 88
+It Is! - In 1 sec, 330 ms, and 933 μs time.
+5 x 8 = 40
+It Is! - In 1 sec, 378 ms, 936 μs, and 6 hnsecs time.
+10 x 8 = 80
+It Is! - In 1 sec, 401 ms, 706 μs, and 4 hnsecs time.
+9 x 8 = 72
+It Is! - In 4 secs, 564 ms, 914 μs, and 7 hnsecs time.
+8 x 12 = 96
+It Is! - In 4 secs, 319 ms, 687 μs, and 2 hnsecs time.
+4 x 8 = 32
+It Is! - In 3 secs, 121 ms, 365 μs, and 6 hnsecs time.
+8 x 2 = 16
+It Is! - In 1 sec, 127 ms, 505 μs, and 5 hnsecs time.
+8 x 3 = 24
+It Is! - In 1 sec, 291 ms, 677 μs, and 6 hnsecs time.
+8 x 7 = 546
+That is incorrect, have another go..
+8 x 7 = 56
+It Is! - In 3 secs, 160 ms, 401 μs, and 4 hnsecs time.
+8 x 8 = 64
+It Is! - In 1 sec, 525 ms, and 936 μs time.
+6 x 8 = 48
+It Is! - In 4 secs, 656 ms, 94 μs, and 3 hnsecs time.
+Saturday 18 May 2019 [11:15:19am] Hurray!
+11/12 Corrects (1st trys)!
+Saturday 18 May 2019 [11:15:19am] Eclipsed Time: 29 secs, 56 ms, 210 μs, and 2 hnsecs
+Sunday 23 June 2019 [10:44:48am] <-> Welcome to Tables
+7 x 8 = 56
+It Is! - In 1 sec, 729 ms, 149 μs, and 2 hnsecs time.
+12 x 8 = 96
+It Is! - In 6 secs, 915 ms, 851 μs, and 9 hnsecs time.
+1 x 8 = 8
+It Is! - In 1 sec, 870 ms, 5 μs, and 8 hnsecs time.
+6 x 8 = 48
+It Is! - In 1 sec, 922 ms, 267 μs, and 4 hnsecs time.
+8 x 3 = 24
+It Is! - In 1 sec, 202 ms, 752 μs, and 9 hnsecs time.
+8 x 8 = 64
+It Is! - In 1 sec, 320 ms, 469 μs, and 8 hnsecs time.
+5 x 8 = 40
+It Is! - In 1 sec, 391 ms, and 327 μs time.
+8 x 11 = 88
+It Is! - In 1 sec, 376 ms, 372 μs, and 3 hnsecs time.
+4 x 8 = 32
+It Is! - In 1 sec, 665 ms, 935 μs, and 8 hnsecs time.
+9 x 8 = 72
+It Is! - In 2 secs, 832 ms, 252 μs, and 5 hnsecs time.
+8 x 10 = 80
+It Is! - In 1 sec, 863 ms, 782 μs, and 6 hnsecs time.
+2 x 8 = 16
+It Is! - In 1 sec, 266 ms, 783 μs, and 5 hnsecs time.
+Sunday 23 June 2019 [10:45:19am] Hurray!
+12/12 Corrects (1st trys)!
+Sunday 23 June 2019 [10:45:19am] Eclipsed Time: 25 secs, 358 ms, 533 μs, and 3 hnsecs
+Sunday 23 June 2019 [10:45:31am] <-> Welcome to Tables
+8 x 6 = 48
+It Is! - In 1 sec, 659 ms, 511 μs, and 2 hnsecs time.
+11 x 8 = 88
+It Is! - In 1 sec, 433 ms, 720 μs, and 5 hnsecs time.
+2 x 8 = 16
+It Is! - In 1 sec, 271 ms, 209 μs, and 6 hnsecs time.
+8 x 1 = 8
+It Is! - In 1 sec, 73 ms, 694 μs, and 6 hnsecs time.
+3 x 8 = 24
+It Is! - In 1 sec, 250 ms, 45 μs, and 2 hnsecs time.
+10 x 8 = 80
+It Is! - In 1 sec, 228 ms, 21 μs, and 1 hnsec time.
+12 x 8 = 96
+It Is! - In 1 sec, 683 ms, 743 μs, and 8 hnsecs time.
+5 x 8 = 40
+It Is! - In 1 sec, 403 ms, 507 μs, and 7 hnsecs time.
+8 x 8 = 64
+It Is! - In 1 sec, 444 ms, and 39 μs time.
+4 x 8 = 32
+It Is! - In 1 sec, 709 ms, 441 μs, and 7 hnsecs time.
+8 x 9 = 72
+It Is! - In 2 secs, 13 ms, and 625 μs time.
+7 x 8 = 56
+It Is! - In 1 sec, 617 ms, 78 μs, and 4 hnsecs time.
+Sunday 23 June 2019 [10:45:51am] Hurray!
+12/12 Corrects (1st trys)!
+Sunday 23 June 2019 [10:45:51am] Eclipsed Time: 17 secs, 789 ms, 226 μs, and 6 hnsecs
+Sunday 30 June 2019 [ 9:58:07am] <-> Welcome to Tables
+8 x 8 = 64
+It Is! - In 1 sec, 484 ms, 339 μs, and 9 hnsecs time.
+8 x 4 = 32
+It Is! - In 1 sec, 615 ms, 990 μs, and 5 hnsecs time.
+10 x 8 = 80
+It Is! - In 1 sec, 356 ms, 552 μs, and 6 hnsecs time.
+8 x 6 = 48
+It Is! - In 2 secs, 39 ms, 150 μs, and 6 hnsecs time.
+8 x 1 = 8
+It Is! - In 1 sec, 16 ms, 163 μs, and 1 hnsec time.
+11 x 8 = 88
+It Is! - In 1 sec, 240 ms, 347 μs, and 8 hnsecs time.
+5 x 8 = 40
+It Is! - In 1 sec, 569 ms, 457 μs, and 6 hnsecs time.
+8 x 9 = 56
+That is incorrect, have another go..
+8 x 9 = 72
+It Is! - In 8 secs, 118 ms, 437 μs, and 9 hnsecs time.
+7 x 8 = 546
+That is incorrect, have another go..
+7 x 8 = 56
+It Is! - In 3 secs, 526 ms, 541 μs, and 5 hnsecs time.
+8 x 3 = 24
+It Is! - In 2 secs, 760 ms, 613 μs, and 8 hnsecs time.
+8 x 2 = 16
+It Is! - In 1 sec, 648 ms, 940 μs, and 4 hnsecs time.
+12 x 8 = 96
+It Is! - In 2 secs, 102 ms, 362 μs, and 8 hnsecs time.
+Sunday 30 June 2019 [ 9:58:39am] Hurray!
+10/12 Corrects (1st trys)!
+Sunday 30 June 2019 [ 9:58:39am] Eclipsed Time: 28 secs, 480 ms, 548 μs, and 2 hnsecs
+Sunday 30 June 2019 [ 9:58:43am] <-> Welcome to Tables
+1 x 8 = 8
+It Is! - In 1 sec, 57 ms, 384 μs, and 5 hnsecs time.
+8 x 5 = 40
+It Is! - In 1 sec, 364 ms, 464 μs, and 5 hnsecs time.
+8 x 10 = 80
+It Is! - In 1 sec, 454 ms, 197 μs, and 8 hnsecs time.
+8 x 8 = 64
+It Is! - In 1 sec, 272 ms, and 145 μs time.
+8 x 3 = 24
+It Is! - In 1 sec, 94 ms, 995 μs, and 7 hnsecs time.
+6 x 8 = 48
+It Is! - In 1 sec, 439 ms, 569 μs, and 2 hnsecs time.
+4 x 8 = 32
+It Is! - In 1 sec, 623 ms, 133 μs, and 5 hnsecs time.
+2 x 8 = 16
+It Is! - In 1 sec, 259 ms, and 359 μs time.
+7 x 8 = 56
+It Is! - In 2 secs, 951 ms, 663 μs, and 8 hnsecs time.
+8 x 11 = 88
+It Is! - In 1 sec, 208 ms, and 959 μs time.
+12 x 8 = 96
+It Is! - In 1 sec, 759 ms, 864 μs, and 8 hnsecs time.
+9 x 8 = 72
+It Is! - In 1 sec, 883 ms, 430 μs, and 3 hnsecs time.
+Sunday 30 June 2019 [ 9:59:03am] Hurray!
+12/12 Corrects (1st trys)!
+Sunday 30 June 2019 [ 9:59:03am] Eclipsed Time: 18 secs, 370 ms, 657 μs, and 2 hnsecs
+Saturday 6 July 2019 [ 7:50:12pm] <-> Welcome to Tables
+8 x 8 = 64
+It Is! - In 1 sec, 683 ms, and 636 μs time.
+5 x 8 = 40
+It Is! - In 1 sec, 890 ms, 261 μs, and 2 hnsecs time.
+8 x 7 = 56
+It Is! - In 1 sec, 655 ms, 24 μs, and 8 hnsecs time.
+8 x 10 = 80
+It Is! - In 1 sec, 213 ms, 905 μs, and 5 hnsecs time.
+12 x 8 = 96
+It Is! - In 1 sec, 605 ms, and 579 μs time.
+8 x 1 = 8
+It Is! - In 1 sec, 542 ms, 708 μs, and 5 hnsecs time.
+8 x 3 = 24
+It Is! - In 1 sec, 234 ms, 555 μs, and 9 hnsecs time.
+8 x 4 = 32
+It Is! - In 1 sec, 551 ms, 433 μs, and 9 hnsecs time.
+6 x 8 = 48
+It Is! - In 1 sec, 805 ms, 338 μs, and 1 hnsec time.
+8 x 11 = 88
+It Is! - In 1 sec, 242 ms, 734 μs, and 6 hnsecs time.
+8 x 2 = 16
+It Is! - In 1 sec, 195 ms, 365 μs, and 6 hnsecs time.
+9 x 8 = 72
+It Is! - In 3 secs, 657 ms, 77 μs, and 1 hnsec time.
+Saturday 6 July 2019 [ 7:50:45pm] Hurray!
+12/12 Corrects (1st trys)!
+Saturday 6 July 2019 [ 7:50:45pm] Eclipsed Time: 20 secs, 278 ms, 945 μs, and 3 hnsecs
+Saturday 6 July 2019 [ 7:50:50pm] <-> Welcome to Tables
+4 x 8 = 32
+It Is! - In 1 sec, 944 ms, 557 μs, and 5 hnsecs time.
+7 x 8 = 56
+It Is! - In 1 sec, 461 ms, 701 μs, and 4 hnsecs time.
+5 x 8 = 40
+It Is! - In 1 sec, 316 ms, 385 μs, and 5 hnsecs time.
+8 x 6 = 48
+It Is! - In 4 secs, 552 ms, 989 μs, and 4 hnsecs time.
+8 x 9 = 72
+It Is! - In 2 secs, 230 ms, 709 μs, and 5 hnsecs time.
+8 x 1 = 8
+It Is! - In 965 ms, 577 μs, and 6 hnsecs time.
+11 x 8 = 88
+It Is! - In 1 sec, 143 ms, 706 μs, and 4 hnsecs time.
+12 x 8 = 96
+It Is! - In 1 sec, 997 ms, 445 μs, and 5 hnsecs time.
+8 x 2 = 16
+It Is! - In 1 sec, 140 ms, 923 μs, and 3 hnsecs time.
+10 x 8 = 80
+It Is! - In 1 sec, 498 ms, 29 μs, and 4 hnsecs time.
+8 x 3 = 24
+It Is! - In 1 sec, 135 ms, 722 μs, and 5 hnsecs time.
+8 x 8 = 64
+It Is! - In 1 sec, 330 ms, 849 μs, and 1 hnsec time.
+Saturday 6 July 2019 [ 7:51:17pm] Hurray!
+12/12 Corrects (1st trys)!
+Saturday 6 July 2019 [ 7:51:17pm] Eclipsed Time: 20 secs, 720 ms, 139 μs, and 9 hnsecs
+Wednesday 17 July 2019 [ 7:53:35pm] <-> Welcome to Tables
+7 x 7 = 49
+It Is! - In 1 sec, 476 ms, 983 μs, and 4 hnsecs time.
+2 x 7 = 14
+It Is! - In 1 sec, 604 ms, 537 μs, and 5 hnsecs time.
+11 x 7 = 77
+It Is! - In 1 sec, 263 ms, 127 μs, and 1 hnsec time.
+7 x 12 = 87
+That is incorrect, have another go..
+7 x 12 = 86
+That is incorrect, have another go..
+7 x 12 = 72
+That is incorrect, have another go..
+7 x 12 = 92
+That is incorrect, have another go..
+7 x 12 = 96
+That is incorrect, have another go..
+7 x 12 = 84
+It Is! - In 21 secs, 285 ms, 843 μs, and 2 hnsecs time.
+7 x 8 = 56
+It Is! - In 3 secs, 55 ms, 42 μs, and 7 hnsecs time.
+3 x 7 = 21
+It Is! - In 1 sec, 206 ms, 458 μs, and 8 hnsecs time.
+7 x 6 = 36
+That is incorrect, have another go..
+7 x 6 = 32
+That is incorrect, have another go..
+7 x 6 = 42
+It Is! - In 7 secs, 680 ms, 599 μs, and 7 hnsecs time.
+1 x 7 = 7
+It Is! - In 1 sec, 486 ms, and 808 μs time.
+9 x 7 = 63
+It Is! - In 13 secs, 239 ms, 345 μs, and 4 hnsecs time.
+7 x 4 = 28
+It Is! - In 1 sec, 894 ms, 671 μs, and 4 hnsecs time.
+7 x 5 = 35
+It Is! - In 1 sec, 414 ms, 914 μs, and 9 hnsecs time.
+10 x 7 = 70
+It Is! - In 1 sec, 366 ms, 392 μs, and 7 hnsecs time.
+Wednesday 17 July 2019 [ 7:54:51pm] Hurray!
+10/12 Corrects (1st trys)!
+Wednesday 17 July 2019 [ 7:54:51pm] Eclipsed Time: 56 secs, 980 ms, 469 μs, and 9 hnsecs
+Wednesday 17 July 2019 [ 7:57:49pm] <-> Welcome to Tables
+7 x 3 = 21
+It Is! - In 1 sec, 246 ms, 632 μs, and 5 hnsecs time.
+7 x 7 = 49
+It Is! - In 1 sec, 408 ms, 895 μs, and 4 hnsecs time.
+7 x 2 = 14
+It Is! - In 1 sec, 167 ms, 97 μs, and 5 hnsecs time.
+7 x 10 = 70
+It Is! - In 1 sec, 352 ms, 252 μs, and 9 hnsecs time.
+4 x 7 = 28
+It Is! - In 1 sec, 283 ms, 318 μs, and 2 hnsecs time.
+11 x 7 = 77
+It Is! - In 1 sec, 218 ms, 90 μs, and 2 hnsecs time.
+5 x 7 = 35
+It Is! - In 1 sec, 486 ms, 544 μs, and 5 hnsecs time.
+7 x 8 = 5
+That is incorrect, have another go..
+7 x 8 = 56
+It Is! - In 2 secs, 838 ms, 708 μs, and 6 hnsecs time.
+9 x 7 = 63
+It Is! - In 2 secs, 145 ms, 998 μs, and 3 hnsecs time.
+7 x 1 = 7
+It Is! - In 1 sec, 179 ms, 956 μs, and 5 hnsecs time.
+12 x 7 = 83
+That is incorrect, have another go..
+12 x 7 = 86
+That is incorrect, have another go..
+12 x 7 = 84
+It Is! - In 42 secs, 664 ms, 734 μs, and 6 hnsecs time.
+7 x 6 = 42
+It Is! - In 2 secs, 881 ms, 256 μs, and 2 hnsecs time.
+Wednesday 17 July 2019 [ 7:58:52pm] Hurray!
+10/12 Corrects (1st trys)!
+Wednesday 17 July 2019 [ 7:58:52pm] Eclipsed Time: 1 minute, 875 ms, 75 μs, and 5 hnsecs
+Wednesday 17 July 2019 [ 7:59:19pm] <-> Welcome to Tables
+11 x 7 = 77
+It Is! - In 1 sec, 311 ms, 937 μs, and 4 hnsecs time.
+7 x 6 = 42
+It Is! - In 3 secs, 23 ms, 191 μs, and 6 hnsecs time.
+2 x 7 = 14
+It Is! - In 2 secs, 147 ms, 822 μs, and 1 hnsec time.
+12 x 7 = 84
+It Is! - In 2 secs, 394 ms, and 771 μs time.
+8 x 7 = 56
+It Is! - In 2 secs, 50 ms, 573 μs, and 8 hnsecs time.
+7 x 7 = 49
+It Is! - In 1 sec, 932 ms, 200 μs, and 8 hnsecs time.
+7 x 10 = 70
+It Is! - In 1 sec, 318 ms, 400 μs, and 1 hnsec time.
+3 x 7 = 21
+It Is! - In 1 sec, 405 ms, 859 μs, and 5 hnsecs time.
+5 x 7 = 35
+It Is! - In 1 sec, 388 ms, 786 μs, and 3 hnsecs time.
+7 x 4 = 28
+It Is! - In 1 sec, 742 ms, 984 μs, and 5 hnsecs time.
+7 x 9 = 72
+That is incorrect, have another go..
+7 x 9 = 63
+It Is! - In 35 secs, 442 ms, 260 μs, and 5 hnsecs time.
+1 x 7 = 7
+It Is! - In 1 sec, 611 ms, 823 μs, and 2 hnsecs time.
+Wednesday 17 July 2019 [ 8:00:16pm] Hurray!
+11/12 Corrects (1st trys)!
+Wednesday 17 July 2019 [ 8:00:16pm] Eclipsed Time: 55 secs, 772 ms, 426 μs, and 8 hnsecs
+Wednesday 17 July 2019 [ 8:00:18pm] <-> Welcome to Tables
+7 x 8 = 63
+That is incorrect, have another go..
+7 x 8 = 56
+It Is! - In 14 secs, 450 ms, 171 μs, and 7 hnsecs time.
+7 x 4 = 28
+It Is! - In 1 sec, 672 ms, 945 μs, and 8 hnsecs time.
+5 x 7 = 35
+It Is! - In 1 sec, 390 ms, 692 μs, and 8 hnsecs time.
+7 x 9 = 63
+It Is! - In 2 secs, 755 ms, 616 μs, and 8 hnsecs time.
+2 x 7 = 14
+It Is! - In 1 sec, 349 ms, 589 μs, and 1 hnsec time.
+10 x 7 = 70
+It Is! - In 1 sec, 569 ms, 699 μs, and 4 hnsecs time.
+7 x 3 = 21
+It Is! - In 1 sec, 413 ms, and 147 μs time.
+7 x 12 = 84
+It Is! - In 5 secs, 45 ms, 937 μs, and 2 hnsecs time.
+7 x 7 = 49
+It Is! - In 1 sec, 670 ms, and 741 μs time.
+7 x 6 = 42
+It Is! - In 6 secs, 119 ms, 902 μs, and 5 hnsecs time.
+11 x 7 = 787
+That is incorrect, have another go..
+11 x 7 = 77
+It Is! - In 2 secs, 541 ms, 664 μs, and 6 hnsecs time.
+7 x 1 = 7
+It Is! - In 1 sec, 465 ms, 104 μs, and 2 hnsecs time.
+Wednesday 17 July 2019 [ 8:01:01pm] Hurray!
+10/12 Corrects (1st trys)!
+Wednesday 17 July 2019 [ 8:01:01pm] Eclipsed Time: 41 secs, 446 ms, 732 μs, and 8 hnsecs

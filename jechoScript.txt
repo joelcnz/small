@@ -1,0 +1,5 @@
+run jehco.d
+run jecho.d
+h
+h
+q

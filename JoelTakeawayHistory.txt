@@ -1,0 +1,340 @@
+Friday 17 May 2019 [11:46:16am] <-> Welcome to Takeaways
+Friday 17 May 2019 [11:46:18am] <-> Random
+Friday 17 May 2019 [11:46:22am] <-> Welcome to Takeaways
+Friday 17 May 2019 [11:46:26am] <-> 5 takeaways
+5 - 1 = 4
+It Is! -- Right in: 1 sec, 453 ms, 15 μs, and 1 hnsec
+5 - 5 = 0
+It Is! -- Right in: 1 sec, 333 ms, and 23 μs
+5 - 6 = -1
+It Is! -- Right in: 1 sec, 613 ms, 751 μs, and 6 hnsecs
+5 - 10 = -5
+It Is! -- Right in: 2 secs, 57 ms, 590 μs, and 3 hnsecs
+5 - 4 = 1
+It Is! -- Right in: 2 secs, 544 ms, 462 μs, and 9 hnsecs
+5 - 11 = -6
+It Is! -- Right in: 3 secs, 681 ms, 440 μs, and 1 hnsec
+5 - 8 = -3
+It Is! -- Right in: 4 secs, 441 ms, 358 μs, and 5 hnsecs
+5 - 9 = -4
+It Is! -- Right in: 7 secs, 451 ms, 653 μs, and 4 hnsecs
+5 - 2 = 3
+It Is! -- Right in: 1 sec, 919 ms, 666 μs, and 1 hnsec
+5 - 3 = 2
+It Is! -- Right in: 1 sec, 547 ms, and 582 μs
+5 - 7 is not 2! Try again..
+5 - 7 = -2
+It Is! -- Right in: 8 secs, 617 ms, 549 μs, and 5 hnsecs
+Friday 17 May 2019 [11:47:03am] in Time: 36 secs, 661 ms, 747 μs, and 2 hnsecs (1 mistake)
+Friday 17 May 2019 [11:47:05am] <-> Welcome to Takeaways
+Friday 17 May 2019 [11:47:15am] <-> 5 takeaways
+5 - 2 = 3
+It Is! -- Right in: 1 sec, 366 ms, 891 μs, and 4 hnsecs
+5 - 7 is not -3! Try again..
+5 - 7 = -2
+It Is! -- Right in: 4 secs, 581 ms, 18 μs, and 9 hnsecs
+5 - 9 = -4
+It Is! -- Right in: 3 secs, 426 ms, 266 μs, and 9 hnsecs
+5 - 1 = 4
+It Is! -- Right in: 1 sec, 804 ms, and 692 μs
+5 - 10 = -5
+It Is! -- Right in: 3 secs, 164 ms, 403 μs, and 4 hnsecs
+5 - 6 = -1
+It Is! -- Right in: 1 sec, 567 ms, 242 μs, and 1 hnsec
+5 - 3 = 2
+It Is! -- Right in: 1 sec, 719 ms, 173 μs, and 2 hnsecs
+5 - 4 = 1
+It Is! -- Right in: 1 sec, 495 ms, 484 μs, and 8 hnsecs
+5 - 11 = -6
+It Is! -- Right in: 2 secs, 846 ms, 726 μs, and 1 hnsec
+5 - 8 = -3
+It Is! -- Right in: 2 secs, 448 ms, 275 μs, and 1 hnsec
+5 - 5 = 0
+It Is! -- Right in: 1 sec, 761 ms, and 670 μs
+Friday 17 May 2019 [11:47:41am] in Time: 26 secs, 182 ms, 460 μs, and 2 hnsecs (1 mistake)
+Friday 17 May 2019 [11:47:44am] <-> Welcome to Takeaways
+Friday 17 May 2019 [11:47:47am] <-> 5 takeaways
+5 - 5 = 0
+It Is! -- Right in: 1 sec, 435 ms, 655 μs, and 6 hnsecs
+5 - 11 = -6
+It Is! -- Right in: 4 secs, 268 ms, 293 μs, and 3 hnsecs
+5 - 10 = -5
+It Is! -- Right in: 1 sec, 304 ms, 76 μs, and 8 hnsecs
+5 - 2 = 3
+It Is! -- Right in: 1 sec, 542 ms, and 207 μs
+5 - 8 is not -2! Try again..
+5 - 8 = -3
+It Is! -- Right in: 3 secs, 443 ms, 282 μs, and 7 hnsecs
+5 - 7 = -2
+It Is! -- Right in: 4 secs, 235 ms, 64 μs, and 5 hnsecs
+5 - 1 = 4
+It Is! -- Right in: 1 sec, 734 ms, 226 μs, and 7 hnsecs
+5 - 6 = -1
+It Is! -- Right in: 1 sec, 536 ms, 91 μs, and 6 hnsecs
+5 - 3 = 2
+It Is! -- Right in: 1 sec, 415 ms, 554 μs, and 1 hnsec
+5 - 4 = 1
+It Is! -- Right in: 1 sec, 947 ms, 390 μs, and 7 hnsecs
+5 - 9 = -4
+It Is! -- Right in: 3 secs, 662 ms, 501 μs, and 8 hnsecs
+Friday 17 May 2019 [11:48:13am] in Time: 26 secs, 524 ms, 993 μs, and 4 hnsecs (1 mistake)
+Saturday 18 May 2019 [11:16:05am] <-> Welcome to Takeaways
+Saturday 18 May 2019 [11:16:09am] <-> 8 takeaways
+8 - 3 = 5
+It Is! -- Right in: 2 secs, 38 ms, 717 μs, and 4 hnsecs
+8 - 5 = 3
+It Is! -- Right in: 2 secs, 420 ms, 751 μs, and 8 hnsecs
+8 - 10 = -2
+It Is! -- Right in: 2 secs, 54 ms, 901 μs, and 6 hnsecs
+8 - 11 is not 3! Try again..
+8 - 11 = -3
+It Is! -- Right in: 14 secs, 987 ms, 73 μs, and 5 hnsecs
+8 - 2 = 6
+It Is! -- Right in: 1 sec, 874 ms, 136 μs, and 3 hnsecs
+8 - 7 = 1
+It Is! -- Right in: 1 sec, 833 ms, 887 μs, and 2 hnsecs
+8 - 4 = 4
+It Is! -- Right in: 1 sec, 375 ms, 845 μs, and 7 hnsecs
+8 - 9 = -1
+It Is! -- Right in: 2 secs, 316 ms, 53 μs, and 5 hnsecs
+8 - 8 = 0
+It Is! -- Right in: 1 sec, 410 ms, 910 μs, and 7 hnsecs
+8 - 1 = 7
+It Is! -- Right in: 1 sec, 598 ms, 373 μs, and 4 hnsecs
+8 - 6 = 2
+It Is! -- Right in: 1 sec, 447 ms, 964 μs, and 9 hnsecs
+Saturday 18 May 2019 [11:16:42am] in Time: 33 secs, 359 ms, 180 μs, and 5 hnsecs (1 mistake)
+Saturday 18 May 2019 [11:16:44am] <-> Welcome to Takeaways
+Saturday 18 May 2019 [11:16:46am] <-> 8 takeaways
+8 - 10 = -2
+It Is! -- Right in: 2 secs, 59 ms, 57 μs, and 1 hnsec
+8 - 8 = 0
+It Is! -- Right in: 1 sec, 233 ms, 859 μs, and 8 hnsecs
+8 - 2 = 6
+It Is! -- Right in: 1 sec, 278 ms, 973 μs, and 7 hnsecs
+8 - 7 = 1
+It Is! -- Right in: 2 secs, 141 ms, 519 μs, and 7 hnsecs
+8 - 1 = 7
+It Is! -- Right in: 1 sec, 569 ms, 949 μs, and 8 hnsecs
+8 - 6 = 2
+It Is! -- Right in: 1 sec, 685 ms, 4 μs, and 8 hnsecs
+8 - 5 = 3
+It Is! -- Right in: 2 secs, 173 ms, 852 μs, and 8 hnsecs
+8 - 9 = -1
+It Is! -- Right in: 1 sec, 728 ms, and 459 μs
+8 - 4 = 4
+It Is! -- Right in: 2 secs, 649 ms, 495 μs, and 7 hnsecs
+8 - 3 = 5
+It Is! -- Right in: 1 sec, 816 ms, and 523 μs
+8 - 11 = -3
+It Is! -- Right in: 4 secs, 513 ms, 305 μs, and 9 hnsecs
+Saturday 18 May 2019 [11:17:08am] in Time: 22 secs, 850 ms, 615 μs, and 8 hnsecs (0 mistakes)
+Sunday 23 June 2019 [10:47:25am] <-> Welcome to Takeaways
+Sunday 23 June 2019 [10:47:33am] <-> 7 takeaways
+7 - 8 = -1
+It Is! -- Right in: 2 secs, 72 ms, 980 μs, and 2 hnsecs
+7 - 11 = -4
+It Is! -- Right in: 4 secs, 412 ms, and 874 μs
+7 - 3 = 4
+It Is! -- Right in: 2 secs, 215 ms, 828 μs, and 3 hnsecs
+7 - 9 = -2
+It Is! -- Right in: 3 secs, 240 ms, 163 μs, and 1 hnsec
+7 - 10 = -3
+It Is! -- Right in: 3 secs, 937 ms, 310 μs, and 3 hnsecs
+7 - 1 = 6
+It Is! -- Right in: 2 secs, 275 ms, 36 μs, and 1 hnsec
+7 - 6 = 1
+It Is! -- Right in: 1 sec, 619 ms, and 552 μs
+7 - 2 = 5
+It Is! -- Right in: 2 secs, 318 ms, 579 μs, and 1 hnsec
+7 - 5 = 2
+It Is! -- Right in: 3 secs, 599 ms, 568 μs, and 4 hnsecs
+7 - 4 = 3
+It Is! -- Right in: 2 secs, 787 ms, 181 μs, and 6 hnsecs
+7 - 7 = 0
+It Is! -- Right in: 1 sec, 465 ms, 399 μs, and 5 hnsecs
+Sunday 23 June 2019 [10:48:03am] in Time: 29 secs, 945 ms, 133 μs, and 7 hnsecs (0 mistakes)
+Sunday 30 June 2019 [10:27:48am] <-> Welcome to Takeaways
+Sunday 30 June 2019 [10:27:52am] <-> 7 takeaways
+7 - 8 = -1
+It Is! -- Right in: 2 secs, 869 ms, 506 μs, and 8 hnsecs
+7 - 11 = -4
+It Is! -- Right in: 14 secs, 127 ms, 778 μs, and 5 hnsecs
+7 - 1 = 6
+It Is! -- Right in: 2 secs, 30 ms, 539 μs, and 5 hnsecs
+7 - 3 = 4
+It Is! -- Right in: 2 secs, 182 ms, 764 μs, and 7 hnsecs
+7 - 2 is not 3! Try again..
+7 - 2 = 5
+It Is! -- Right in: 6 secs, 320 ms, 469 μs, and 8 hnsecs
+7 - 9 = -2
+It Is! -- Right in: 3 secs, 12 ms, and 634 μs
+7 - 7 = 0
+It Is! -- Right in: 1 sec, 461 ms, 855 μs, and 7 hnsecs
+7 - 5 is not 3! Try again..
+7 - 5 = 2
+It Is! -- Right in: 6 secs, 338 ms, 648 μs, and 3 hnsecs
+7 - 10 = -3
+It Is! -- Right in: 3 secs, 45 ms, and 391 μs
+7 - 6 = 1
+It Is! -- Right in: 2 secs, 459 ms, 25 μs, and 4 hnsecs
+7 - 4 = 3
+It Is! -- Right in: 1 sec, 754 ms, 839 μs, and 8 hnsecs
+Sunday 30 June 2019 [10:28:38am] in Time: 45 secs, 604 ms, 60 μs, and 4 hnsecs (2 mistakes)
+Sunday 30 June 2019 [10:28:41am] <-> Welcome to Takeaways
+Sunday 30 June 2019 [10:28:44am] <-> 7 takeaways
+7 - 7 is not 14! Try again..
+7 - 7 = 0
+It Is! -- Right in: 3 secs, 201 ms, and 693 μs
+7 - 5 is not -2! Try again..
+7 - 5 = 2
+It Is! -- Right in: 3 secs, 958 ms, 100 μs, and 9 hnsecs
+7 - 3 = 4
+It Is! -- Right in: 2 secs, 362 ms, 524 μs, and 5 hnsecs
+7 - 11 = -4
+It Is! -- Right in: 3 secs, 692 ms, 890 μs, and 9 hnsecs
+7 - 10 = -3
+It Is! -- Right in: 1 sec, 954 ms, 27 μs, and 4 hnsecs
+7 - 8 = -1
+It Is! -- Right in: 2 secs, 224 ms, 597 μs, and 6 hnsecs
+7 - 4 = 3
+It Is! -- Right in: 1 sec, 888 ms, 594 μs, and 4 hnsecs
+7 - 2 = 5
+It Is! -- Right in: 2 secs, 752 ms, 722 μs, and 9 hnsecs
+7 - 6 = 1
+It Is! -- Right in: 2 secs, 157 ms, 19 μs, and 2 hnsecs
+7 - 9 = -2
+It Is! -- Right in: 2 secs, 304 ms, 41 μs, and 5 hnsecs
+7 - 1 = 6
+It Is! -- Right in: 3 secs, 296 ms, 816 μs, and 3 hnsecs
+Sunday 30 June 2019 [10:29:14am] in Time: 29 secs, 793 ms, 783 μs, and 7 hnsecs (2 mistakes)
+Saturday 6 July 2019 [ 7:49:05pm] <-> Welcome to Takeaways
+Saturday 6 July 2019 [ 7:49:07pm] <-> 8 takeaways
+8 - 9 = -1
+It Is! -- Right in: 1 sec, 938 ms, 270 μs, and 6 hnsecs
+8 - 10 = -2
+It Is! -- Right in: 1 sec, 962 ms, 355 μs, and 5 hnsecs
+8 - 4 = 4
+It Is! -- Right in: 1 sec, 658 ms, 89 μs, and 6 hnsecs
+8 - 2 = 6
+It Is! -- Right in: 1 sec, 851 ms, and 229 μs
+8 - 1 = 7
+It Is! -- Right in: 2 secs, 876 ms, 177 μs, and 7 hnsecs
+8 - 7 = 1
+It Is! -- Right in: 1 sec, 325 ms, 79 μs, and 7 hnsecs
+8 - 11 = -3
+It Is! -- Right in: 2 secs, 922 ms, 829 μs, and 2 hnsecs
+8 - 5 = 3
+It Is! -- Right in: 3 secs, 621 ms, 356 μs, and 5 hnsecs
+8 - 6 = 2
+It Is! -- Right in: 2 secs, 115 ms, 180 μs, and 4 hnsecs
+8 - 8 is not 8! Try again..
+8 - 8 = 0
+It Is! -- Right in: 3 secs, 122 ms, 442 μs, and 8 hnsecs
+8 - 3 = 5
+It Is! -- Right in: 1 sec, 448 ms, 889 μs, and 7 hnsecs
+Saturday 6 July 2019 [ 7:49:32pm] in Time: 24 secs, 842 ms, 696 μs, and 2 hnsecs (1 mistake)
+Saturday 6 July 2019 [ 7:49:34pm] <-> Welcome to Takeaways
+Saturday 6 July 2019 [ 7:49:35pm] <-> 8 takeaways
+8 - 3 = 5
+It Is! -- Right in: 2 secs, 606 ms, 571 μs, and 8 hnsecs
+8 - 5 = 3
+It Is! -- Right in: 2 secs, 21 ms, 950 μs, and 3 hnsecs
+8 - 10 = -2
+It Is! -- Right in: 2 secs, 825 ms, 181 μs, and 1 hnsec
+8 - 6 = 2
+It Is! -- Right in: 2 secs, 246 ms, 867 μs, and 8 hnsecs
+8 - 8 = 0
+It Is! -- Right in: 1 sec, 456 ms, 273 μs, and 2 hnsecs
+8 - 4 = 4
+It Is! -- Right in: 1 sec, 243 ms, 776 μs, and 4 hnsecs
+8 - 2 = 6
+It Is! -- Right in: 2 secs, 156 ms, and 747 μs
+8 - 9 = -1
+It Is! -- Right in: 2 secs, 60 ms, 423 μs, and 1 hnsec
+8 - 1 = 7
+It Is! -- Right in: 2 secs, 398 ms, 266 μs, and 1 hnsec
+8 - 7 = 1
+It Is! -- Right in: 1 sec, 585 ms, 689 μs, and 2 hnsecs
+8 - 11 = -3
+It Is! -- Right in: 4 secs, 613 ms, 411 μs, and 8 hnsecs
+Saturday 6 July 2019 [ 7:50:01pm] in Time: 25 secs, 215 ms, 804 μs, and 2 hnsecs (0 mistakes)
+Wednesday 17 July 2019 [ 8:43:57pm] <-> Welcome to Takeaways
+Wednesday 17 July 2019 [ 8:43:59pm] <-> Random
+2 - 6 is not 4! Try again..
+2 - 6 = -4
+It Is! -- Right in: 2 secs, 403 ms, 685 μs, and 6 hnsecs
+3 - 3 = 0
+It Is! -- Right in: 1 sec, 809 ms, 706 μs, and 3 hnsecs
+1 - 4 = -3
+It Is! -- Right in: 2 secs, 49 ms, 865 μs, and 9 hnsecs
+3 - 7 = -4
+It Is! -- Right in: 3 secs, 284 ms, 837 μs, and 9 hnsecs
+7 - 2 = 5
+It Is! -- Right in: 2 secs, 19 ms, and 201 μs
+6 - 11 = -5
+It Is! -- Right in: 3 secs, 542 ms, 853 μs, and 9 hnsecs
+9 - 5 = 4
+It Is! -- Right in: 5 secs, 100 ms, 472 μs, and 7 hnsecs
+7 - 8 = -1
+It Is! -- Right in: 2 secs, 396 ms, 888 μs, and 8 hnsecs
+6 - 1 = 5
+It Is! -- Right in: 1 sec, 417 ms, 96 μs, and 3 hnsecs
+7 - 9 = -2
+It Is! -- Right in: 2 secs, 633 ms, 849 μs, and 4 hnsecs
+4 - 10 = -6
+It Is! -- Right in: 2 secs, 632 ms, 747 μs, and 4 hnsecs
+Wednesday 17 July 2019 [ 8:44:29pm] in Time: 29 secs, 291 ms, 875 μs, and 8 hnsecs (1 mistake)
+Wednesday 17 July 2019 [ 8:50:48pm] <-> Welcome to Takeaways
+Wednesday 17 July 2019 [ 8:50:49pm] <-> Random
+3 - 10 is not -6! Try again..
+3 - 10 = -7
+It Is! -- Right in: 11 secs, 579 ms, 536 μs, and 9 hnsecs
+9 - 7 = 2
+It Is! -- Right in: 4 secs, 165 ms, 69 μs, and 2 hnsecs
+10 - 6 = 4
+It Is! -- Right in: 2 secs, 242 ms, 29 μs, and 6 hnsecs
+8 - 5 = 3
+It Is! -- Right in: 3 secs, 590 ms, 599 μs, and 4 hnsecs
+5 - 1 = 4
+It Is! -- Right in: 1 sec, 575 ms, 311 μs, and 5 hnsecs
+3 - 2 = 1
+It Is! -- Right in: 1 sec, 421 ms, 308 μs, and 2 hnsecs
+1 - 9 = -8
+It Is! -- Right in: 2 secs, 56 ms, 421 μs, and 9 hnsecs
+1 - 3 = -2
+It Is! -- Right in: 1 sec, 445 ms, 956 μs, and 7 hnsecs
+12 - 8 is not 6! Try again..
+12 - 8 = 4
+It Is! -- Right in: 5 secs, 880 ms, 389 μs, and 6 hnsecs
+11 - 11 = 0
+It Is! -- Right in: 2 secs, 601 ms, 430 μs, and 7 hnsecs
+7 - 4 = 3
+It Is! -- Right in: 1 sec, 626 ms, 328 μs, and 4 hnsecs
+Wednesday 17 July 2019 [ 8:51:27pm] in Time: 38 secs, 184 ms, 976 μs, and 5 hnsecs (2 mistakes)
+Wednesday 17 July 2019 [ 8:53:20pm] <-> Welcome to Takeaways
+Wednesday 17 July 2019 [ 8:53:22pm] <-> Random
+2 - 6 = -4
+It Is! -- Right in: 2 secs, 208 ms, 820 μs, and 8 hnsecs
+10 - 5 = 5
+It Is! -- Right in: 1 sec, 731 ms, 231 μs, and 3 hnsecs
+11 - 9 = 2
+It Is! -- Right in: 5 secs, 536 ms, 141 μs, and 9 hnsecs
+11 - 11 is not 9! Try again..
+11 - 11 = 0
+It Is! -- Right in: 2 secs, 676 ms, 800 μs, and 8 hnsecs
+11 - 3 = 8
+It Is! -- Right in: 2 secs, 468 ms, 102 μs, and 2 hnsecs
+5 - 4 = 1
+It Is! -- Right in: 1 sec, 620 ms, and 444 μs
+7 - 7 = 0
+It Is! -- Right in: 1 sec, 384 ms, 614 μs, and 1 hnsec
+9 - 1 = 8
+It Is! -- Right in: 1 sec, 545 ms, 752 μs, and 9 hnsecs
+4 - 10 = -6
+It Is! -- Right in: 2 secs, 127 ms, and 638 μs
+2 - 2 = 0
+It Is! -- Right in: 1 sec, 679 ms, 945 μs, and 4 hnsecs
+3 - 8 = -5
+It Is! -- Right in: 2 secs, 640 ms, and 628 μs
+Wednesday 17 July 2019 [ 8:53:47pm] in Time: 25 secs, 620 ms, and 804 μs (1 mistake)

@@ -1,0 +1,90 @@
+Saturday 10 October 2020 [ 2:10:45am] Take Two: "KATHERINE" - 16
+Saturday 10 October 2020 [ 2:10:45am] ASCII: "KATHERINE" - 667
+Saturday 10 October 2020 [ 2:10:45am] a=1, b=2.. A=10, B=20: "KATHERINE" - 910
+Saturday 10 October 2020 [ 2:10:45am] a=1, b=2.. A=-31, B=-30..: "KATHERINE" - -197
+Saturday 10 October 2020 [ 2:10:45am] A=6, B=12 etc..: "KATHERINE" - 546
+Saturday 10 October 2020 [ 2:11:31am] Take Two: "CHRISTENSEN" - 16
+Saturday 10 October 2020 [ 2:11:31am] ASCII: "CHRISTENSEN" - 838
+Saturday 10 October 2020 [ 2:11:31am] a=1, b=2.. A=10, B=20: "CHRISTENSEN" - 1340
+Saturday 10 October 2020 [ 2:11:31am] a=1, b=2.. A=-31, B=-30..: "CHRISTENSEN" - -218
+Saturday 10 October 2020 [ 2:11:31am] A=6, B=12 etc..: "CHRISTENSEN" - 804
+Saturday 10 October 2020 [ 2:13:27am] Take Two: "JESUSCHRIST!" - 23
+Saturday 10 October 2020 [ 2:13:27am] ASCII: "JESUSCHRIST!" - 888
+Saturday 10 October 2020 [ 2:13:27am] a=1, b=2.. A=10, B=20: "JESUSCHRIST!" - 1447
+Saturday 10 October 2020 [ 2:13:27am] a=1, b=2.. A=-31, B=-30..: "JESUSCHRIST!" - -264
+Saturday 10 October 2020 [ 2:13:27am] A=6, B=12 etc..: "JESUSCHRIST!" - 528
+Saturday 10 October 2020 [ 2:13:40am] Take Two: "BILLGATES" - 12
+Saturday 10 October 2020 [ 2:13:40am] ASCII: "BILLGATES" - 663
+Saturday 10 October 2020 [ 2:13:40am] a=1, b=2.. A=10, B=20: "BILLGATES" - 870
+Saturday 10 October 2020 [ 2:13:40am] a=1, b=2.. A=-31, B=-30..: "BILLGATES" - -201
+Saturday 10 October 2020 [ 2:13:40am] A=6, B=12 etc..: "BILLGATES" - 522
+Saturday 10 October 2020 [ 2:37:47am] Take Two: "TOM HANKS" - 17
+Saturday 10 October 2020 [ 2:37:47am] ASCII: "TOM HANKS" - 645
+Saturday 10 October 2020 [ 2:37:47am] a=1, b=2.. A=10, B=20: "TOM HANKS" - 946
+Saturday 10 October 2020 [ 2:37:47am] a=1, b=2.. A=-31, B=-30..: "TOM HANKS" - -219
+Saturday 10 October 2020 [ 2:37:47am] A=6, B=12 etc..: "TOM HANKS" - 222
+Saturday 10 October 2020 [ 2:38:45am] Take Two: "TOM CRUISE" - 13
+Saturday 10 October 2020 [ 2:38:45am] ASCII: "TOM CRUISE" - 731
+Saturday 10 October 2020 [ 2:38:45am] a=1, b=2.. A=10, B=20: "TOM CRUISE" - 1166
+Saturday 10 October 2020 [ 2:38:45am] a=1, b=2.. A=-31, B=-30..: "TOM CRUISE" - -229
+Saturday 10 October 2020 [ 2:38:45am] A=6, B=12 etc..: "TOM CRUISE" - 354
+Saturday 10 October 2020 [ 2:39:10am] Take Two: "BIBLE" - 9
+Saturday 10 October 2020 [ 2:39:10am] ASCII: "BIBLE" - 350
+Saturday 10 October 2020 [ 2:39:10am] a=1, b=2.. A=10, B=20: "BIBLE" - 300
+Saturday 10 October 2020 [ 2:39:10am] a=1, b=2.. A=-31, B=-30..: "BIBLE" - -130
+Saturday 10 October 2020 [ 2:39:10am] A=6, B=12 etc..: "BIBLE" - 180
+Saturday 10 October 2020 [ 2:39:24am] Take Two: "ATTITUDE" - 9
+Saturday 10 October 2020 [ 2:39:24am] ASCII: "ATTITUDE" - 612
+Saturday 10 October 2020 [ 2:39:24am] a=1, b=2.. A=10, B=20: "ATTITUDE" - 1000
+Saturday 10 October 2020 [ 2:39:24am] a=1, b=2.. A=-31, B=-30..: "ATTITUDE" - -156
+Saturday 10 October 2020 [ 2:39:24am] A=6, B=12 etc..: "ATTITUDE" - 600
+Saturday 10 October 2020 [ 2:39:43am] Take Two: "attitude" - 9
+Saturday 10 October 2020 [ 2:39:43am] ASCII: "attitude" - 868
+Saturday 10 October 2020 [ 2:39:43am] a=1, b=2.. A=10, B=20: "attitude" - 100
+Saturday 10 October 2020 [ 2:39:43am] a=1, b=2.. A=-31, B=-30..: "attitude" - 100
+Saturday 10 October 2020 [ 2:39:43am] A=6, B=12 etc..: "attitude" - 600
+Saturday 10 October 2020 [ 2:40:40am] Take Two: "motivation" - 15
+Saturday 10 October 2020 [ 2:40:40am] ASCII: "motivation" - 1098
+Saturday 10 October 2020 [ 2:40:40am] a=1, b=2.. A=10, B=20: "motivation" - 138
+Saturday 10 October 2020 [ 2:40:40am] a=1, b=2.. A=-31, B=-30..: "motivation" - 138
+Saturday 10 October 2020 [ 2:40:40am] A=6, B=12 etc..: "motivation" - 828
+Wednesday 11 November 2020 [12:14:14pm] Take Two: "Barry" - 10
+Wednesday 11 November 2020 [12:14:14pm] ASCII: "Barry" - 512
+Wednesday 11 November 2020 [12:14:14pm] a=1, b=2.. A=10, B=20: "Barry" - 82
+Wednesday 11 November 2020 [12:14:14pm] a=1, b=2.. A=-31, B=-30..: "Barry" - 32
+Wednesday 11 November 2020 [12:14:14pm] A=6, B=12 etc..: "Barry" - 384
+Wednesday 11 November 2020 [12:14:45pm] Take Two: "Joel" - 11
+Wednesday 11 November 2020 [12:14:45pm] ASCII: "Joel" - 394
+Wednesday 11 November 2020 [12:14:45pm] a=1, b=2.. A=10, B=20: "Joel" - 132
+Wednesday 11 November 2020 [12:14:45pm] a=1, b=2.. A=-31, B=-30..: "Joel" - 10
+Wednesday 11 November 2020 [12:14:45pm] A=6, B=12 etc..: "Joel" - 252
+Wednesday 11 November 2020 [ 1:50:18pm] Take Two: "BILLGATES" - 12
+Wednesday 11 November 2020 [ 1:50:18pm] ASCII: "BILLGATES" - 663
+Wednesday 11 November 2020 [ 1:50:18pm] a=1, b=2.. A=10, B=20: "BILLGATES" - 870
+Wednesday 11 November 2020 [ 1:50:18pm] a=1, b=2.. A=-31, B=-30..: "BILLGATES" - -201
+Wednesday 11 November 2020 [ 1:50:18pm] A=6, B=12 etc..: "BILLGATES" - 522
+Wednesday 11 November 2020 [ 1:50:48pm] Take Two: "computer" - 14
+Wednesday 11 November 2020 [ 1:50:48pm] ASCII: "computer" - 879
+Wednesday 11 November 2020 [ 1:50:48pm] a=1, b=2.. A=10, B=20: "computer" - 111
+Wednesday 11 November 2020 [ 1:50:48pm] a=1, b=2.. A=-31, B=-30..: "computer" - 111
+Wednesday 11 November 2020 [ 1:50:48pm] A=6, B=12 etc..: "computer" - 666
+Wednesday 11 November 2020 [ 1:54:56pm] Take Two: "BARRY" - 10
+Wednesday 11 November 2020 [ 1:54:57pm] ASCII: "BARRY" - 384
+Wednesday 11 November 2020 [ 1:54:57pm] a=1, b=2.. A=10, B=20: "BARRY" - 640
+Wednesday 11 November 2020 [ 1:54:57pm] a=1, b=2.. A=-31, B=-30..: "BARRY" - -96
+Wednesday 11 November 2020 [ 1:54:57pm] A=6, B=12 etc..: "BARRY" - 384
+Wednesday 11 November 2020 [ 1:55:18pm] Take Two: "BARRY DELISLE" - 18
+Wednesday 11 November 2020 [ 1:55:18pm] ASCII: "BARRY DELISLE" - 930
+Wednesday 11 November 2020 [ 1:55:18pm] a=1, b=2.. A=10, B=20: "BARRY DELISLE" - 1236
+Wednesday 11 November 2020 [ 1:55:18pm] a=1, b=2.. A=-31, B=-30..: "BARRY DELISLE" - -318
+Wednesday 11 November 2020 [ 1:55:18pm] A=6, B=12 etc..: "BARRY DELISLE" - 396
+Saturday 27 February 2021 [ 6:35:36pm] Take Two: "dolfin" - 10
+Saturday 27 February 2021 [ 6:35:36pm] ASCII: "dolfin" - 636
+Saturday 27 February 2021 [ 6:35:36pm] a=1, b=2.. A=10, B=20: "dolfin" - 60
+Saturday 27 February 2021 [ 6:35:36pm] a=1, b=2.. A=-31, B=-30..: "dolfin" - 60
+Saturday 27 February 2021 [ 6:35:36pm] A=6, B=12 etc..: "dolfin" - 360
+Tuesday 9 March 2021 [ 6:41:35pm] Take Two: "JESUSCHRIST!" - 23
+Tuesday 9 March 2021 [ 6:41:35pm] ASCII: "JESUSCHRIST!" - 888
+Tuesday 9 March 2021 [ 6:41:35pm] a=1, b=2.. A=10, B=20: "JESUSCHRIST!" - 1447
+Tuesday 9 March 2021 [ 6:41:35pm] a=1, b=2.. A=-31, B=-30..: "JESUSCHRIST!" - -264
+Tuesday 9 March 2021 [ 6:41:35pm] A=6, B=12 etc..: "JESUSCHRIST!" - 528

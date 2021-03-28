@@ -1,0 +1,5 @@
+Tuesday 9 March 2021 [ 6:41:35pm] Take Two: "JESUSCHRIST!" - 23
+Tuesday 9 March 2021 [ 6:41:35pm] ASCII: "JESUSCHRIST!" - 888
+Tuesday 9 March 2021 [ 6:41:35pm] a=1, b=2.. A=10, B=20: "JESUSCHRIST!" - 1447
+Tuesday 9 March 2021 [ 6:41:35pm] a=1, b=2.. A=-31, B=-30..: "JESUSCHRIST!" - -264
+Tuesday 9 March 2021 [ 6:41:35pm] A=6, B=12 etc..: "JESUSCHRIST!" - 528
